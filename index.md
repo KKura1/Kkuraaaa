@@ -1,5 +1,5 @@
 ---
-title: Welcome to Kkura1's blog
+Welcome to Kkura1's blog
 ---
-Description: This is Kkura1's first time to learn Github.
+This is Kkura1's first time to learn Github.
 
